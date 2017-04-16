@@ -10,6 +10,14 @@ Editor in C written following this [tutorial](http://viewsourcecode.org/snaptoke
 
 ## Commands
 
+### Compile
+
 ```sh
 make
+```
+
+### Run
+
+```sh
+./kilo
 ```
