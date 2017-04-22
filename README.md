@@ -1,6 +1,6 @@
 # Ceditor
 
-Editor in C written following this [tutorial](http://viewsourcecode.org/snaptoken/kilo/01.setup.html)
+Editor in C written ~~following~~ copy/pasting from this [tutorial](http://viewsourcecode.org/snaptoken/kilo/01.setup.html)
 
 
 ## Requirements
