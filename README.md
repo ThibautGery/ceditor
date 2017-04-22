@@ -19,5 +19,6 @@ make
 ### Run
 
 ```sh
-./kilo
+./kilo #open new editor
+./kilo kilo.c #open a file
 ```
